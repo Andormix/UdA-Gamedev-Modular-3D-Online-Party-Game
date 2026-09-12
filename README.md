@@ -6,6 +6,10 @@
 > **Autor:** Eric Torrontera Ruiz  
 > **Tutors:** Jan Sau Batlle & Josep Ribó Ferriz
 
+Per analitzar els diagrames d'arquitectura de sistemes, el model C4 de context, el disseny de la màquina d'estats finits (FSM) i les decisions d'enginyeria de programari, pots consultar la memòria oficial del projecte:
+
+👉 [**📄 Llegir la Memòria Tècnica Completa del Projecte (PDF)**](https://github.com/Andormix/uda-gamedev-modular-3D-online-party-game/blob/main/Documentaci%C3%B3%20completa%20del%20projecte%20-%20MEMORIA.pdf)
+
 ---
 
 ###  Gameplay / Demostració en vídeo
@@ -17,6 +21,11 @@
 </a>
 
 > ℹ️ *Fes clic a la imatge per veure el vídeo de demostració del projecte a Google Drive.*
+
+
+
+---
+
 
 ##  Nota sobre l'accés al repositori i Drets d'Autor (Copyright)
 
