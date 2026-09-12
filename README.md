@@ -8,6 +8,12 @@
 
 ---
 
+### 🎬 Gameplay / Demostració en vídeo
+
+[![Rush Hour Demo](https://img.youtube.com/vi/placeholder/maxresdefault.jpg)](https://drive.google.com/drive/folders/1LWDcCUO_mqptqqfOhNbFuWpDe6j5OyAp)
+
+> ℹ️ *Fes clic a la imatge per veure el vídeo de demostració del projecte a Google Drive.*
+
 ##  Nota sobre l'accés al repositori i Drets d'Autor (Copyright)
 
 Per motius de complir amb les llicències comercials i els termes d'ús de la **Unity Asset Store (EULA)** i d'altres paquets de pagament utilitzats, **els fitxers font i els recursos multimèdia d'aquest projecte es mantenen en un repositori privat**. 
