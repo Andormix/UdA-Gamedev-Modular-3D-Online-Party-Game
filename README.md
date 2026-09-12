@@ -14,18 +14,13 @@ Per analitzar els diagrames d'arquitectura de sistemes, el model C4 de context, 
 
 ###  Gameplay / Demostració en vídeo
 
-### 🎬 Gameplay / Demostració en vídeo
-
 <a href="https://drive.google.com/drive/folders/1LWDcCUO_mqptqqfOhNbFuWpDe6j5OyAp" target="_blank">
   <img width="1024" height="579" alt="Rush Hour Gameplay Demo" src="https://github.com/user-attachments/assets/3c0cada2-b745-4d69-a217-31f70ee62acc" />
 </a>
 
 > ℹ️ *Fes clic a la imatge per veure el vídeo de demostració del projecte a Google Drive.*
 
-
-
 ---
-
 
 ##  Nota sobre l'accés al repositori i Drets d'Autor (Copyright)
 
