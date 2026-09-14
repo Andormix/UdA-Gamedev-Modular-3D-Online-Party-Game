@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc19cfe60e37e3479241a8749c54637, type: 3}
+  m_Name: LS_026_KEEP_MOMENTUM
+  m_EditorClassIdentifier: Assembly-CSharp::LocalizedStringSO
+  en: 'Oh! I almost forgot. Keep the momentum-going! Every fast-delivery builds your
+    Combo-Multiplier--the faster you serve, the more points you stack. But be-careful:
+    if a timer-expires or a customer-walks, your combo resets-to-zero! </color><color=#FF9E3A>
+    Pro-tip: the Final-Payment is where the real coins-are. Get that card-reader
+    to the table FAST for a massive-bonus! </color>
+
+'
+  es: 
+  ca: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc19cfe60e37e3479241a8749c54637, type: 3}
+  m_Name: LS_022_SOUVENIR
+  m_EditorClassIdentifier: Assembly-CSharp::LocalizedStringSO
+  en: "Do you remember those \u2018gifts\u2019 I mentioned? When customers leave\u2014especially
+    the grumpy ones\u2014they\u2019ll leave you a souvenir of dirty items. Collect
+    those gifts and get them over to the sink. I know, washing up isn't glamorous...
+    but neither is serving espresso in a cup that smells like regret. Let\u2019s
+    keep it sparkling, Can-Opener! </color><color=#FF9E3A> Bring dirty items to the
+    sink </color>"
+  es: 
+  ca: 

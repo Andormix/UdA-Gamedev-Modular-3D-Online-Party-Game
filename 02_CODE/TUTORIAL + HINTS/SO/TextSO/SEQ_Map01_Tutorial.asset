@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0f6443dc1d89494caefda9bdb642db3, type: 3}
+  m_Name: SEQ_Map01_Tutorial
+  m_EditorClassIdentifier: Assembly-CSharp::TutorialSequenceSO
+  sequenceId: Map_01_Tutorial
+  steps:
+  - {fileID: 11400000, guid: eb56f70b9745d0044b016a6de1789556, type: 2}
+  - {fileID: 11400000, guid: 098ef5677fcf0044fa4e9c8d672c13e1, type: 2}
+  - {fileID: 11400000, guid: 737c7da013793cc49b7aeede98ffd8d1, type: 2}
+  - {fileID: 11400000, guid: 39907e838db72f64d8b94f180d687269, type: 2}
+  - {fileID: 11400000, guid: 1bdbe83a642229b41a6b6a3fbf7fa4fe, type: 2}
+  - {fileID: 11400000, guid: b8a84f8747da66848b279b659341e74d, type: 2}
+  - {fileID: 11400000, guid: 059146dd25b8de5408f65a01eec1c7e6, type: 2}
+  - {fileID: 11400000, guid: ee45666ec66916943b3999cba990585a, type: 2}
+  - {fileID: 11400000, guid: 95f3360e0c9fa484ea9fba1611f413d5, type: 2}
+  - {fileID: 11400000, guid: 492d5aa0534d571499384d5722e721aa, type: 2}
+  - {fileID: 11400000, guid: dbc9b1335e2a35347bf0d06ee97b36be, type: 2}
+  - {fileID: 11400000, guid: 23de9eedaa89e4e48aa86db22db833c7, type: 2}
+  - {fileID: 11400000, guid: c04838dd5f76aaf40833b893f77320e5, type: 2}
+  - {fileID: 11400000, guid: 90b11d6c74521ff479ec495cac2ab09d, type: 2}
+  - {fileID: 11400000, guid: 9032c1034688c314bb917f2faacc8db0, type: 2}
+  - {fileID: 11400000, guid: 55b3a4ad6bfdee543bd106258ff96f29, type: 2}
+  - {fileID: 11400000, guid: e1b321fcd4db1d349ae822c9c9a34049, type: 2}
+  - {fileID: 11400000, guid: a75e9c80eee25404cb25eca8d46b5ba5, type: 2}
+  - {fileID: 11400000, guid: c7c83a6d2c2367045abdf1f848155613, type: 2}
+  - {fileID: 11400000, guid: 64af58d820a66e741bce6d6afa653397, type: 2}
+  - {fileID: 11400000, guid: d6215d8badf1dd249a158dbb19e3c3e9, type: 2}
+  - {fileID: 11400000, guid: 6c74ed0364d0b6c4098b9b2e4bf1820e, type: 2}
+  - {fileID: 11400000, guid: 26eb782e44350c640bdfa4686f28319d, type: 2}
+  - {fileID: 11400000, guid: 10ab8ee5af1a3b04bb3b785495b7c05e, type: 2}
+  - {fileID: 11400000, guid: a1a30514042bbb2439b2d074a77b6db4, type: 2}
+  - {fileID: 11400000, guid: 7938e6afa252ad0438ade9a49fe448b2, type: 2}
+  - {fileID: 11400000, guid: ed0a09b4824b709488241d69692eb5ad, type: 2}
+  - {fileID: 11400000, guid: abe1c6adab618fa4fa7d3322fd1c2025, type: 2}
+  - {fileID: 11400000, guid: 1832900efec02284e8cb69df9d53b389, type: 2}
+  - {fileID: 11400000, guid: 1b62b745481d6204c89834e4066cabbd, type: 2}
+  - {fileID: 11400000, guid: 29d95eeb147427145a91ca47a3d8b99f, type: 2}
+  - {fileID: 11400000, guid: 0b45a5435c8080b4594530bd7372c795, type: 2}
+  - {fileID: 11400000, guid: f5469665a64f5f14c97ab7c92c365fdf, type: 2}
+  - {fileID: 11400000, guid: c63f1f9cafc149049a07f01b14b4f97a, type: 2}
+  - {fileID: 11400000, guid: d73fe864cdc013548973c77401ec5a9b, type: 2}
+  useGraph: 1
+  entryStepId: TUT_001_OPENING

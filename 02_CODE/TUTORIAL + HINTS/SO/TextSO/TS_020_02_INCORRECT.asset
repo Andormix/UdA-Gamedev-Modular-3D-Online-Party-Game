@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66e1c8a8cac977f4385616da74236e6e, type: 3}
+  m_Name: TS_020_02_INCORRECT
+  m_EditorClassIdentifier: Assembly-CSharp::TutorialStepSO
+  stepId: TS_020_02_INCORRECT
+  requiredPayloadId: 
+  prerequisites: []
+  startLines:
+  - {fileID: 11400000, guid: 8cea39d9c20ee004b8c98af0f5e21dd6, type: 2}
+  hintLines: []
+  completesOn: 16
+  secondsBeforeHint: 8
+  requireMovement: 0
+  requireNarrationFinishedForThisStep: 0
+  requirePickup: 0
+  requireLookAtInteractable: 0
+  requirePaymentPhase: 0
+  pointerTargetId: 
+  reminderLoopLines: []
+  reminderIntervalSeconds: 10
+  triggerTableOrderOnActivate: 0
+  targetTableDisplayName: 
+  onStepCompletedAction: 0
+  actionDelaySeconds: 0
+  allowPersistentMemoryForMainTrigger: 1
+  allowPersistentMemoryForExtraConditions: 1
+  allowCurrentStateForPickup: 1
+  nextLinks:
+  - targetStepId: TS_021_PAYSUCESS
+    conditionMode: 1
+    whenEvent: 16
+    requiredPayloadId: TableA
+    allowPersistentMatch: 1
+    priority: 100
+  - targetStepId: TS_020_03_INCORRECT
+    conditionMode: 1
+    whenEvent: 15
+    requiredPayloadId: TableA
+    allowPersistentMatch: 1
+    priority: 90
+  executeNpcActionOnActivate: 0
+  npcAction:
+    actionType: 0
+    targetTransform: {fileID: 0}
+    targetId: 
+    worldPoint: {x: 0, y: 0, z: 0}
+    moveStoppingDistance: 0.25
+    moveTimeoutSeconds: 10
+    snapYToNpc: 1
+    followStopDistance: 1.5
+    followMaxDuration: 10
+    turnSpeedDegPerSec: 540
+    animatorParamName: 
+    animatorBoolValue: 1
+    moveStyle: 0
+    walkSpeed: 1.6
+    jogSpeed: 2.6
+    runSpeed: 3.8
+    acceleration: 12
+    angularSpeed: 720
+    followContinuously: 0
+    sitWhenNearPlayer: 1
+    standUpDistance: 2.2
+    followRepathInterval: 0.15

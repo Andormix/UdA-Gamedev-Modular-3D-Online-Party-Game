@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc19cfe60e37e3479241a8749c54637, type: 3}
+  m_Name: LS_006_02_GO_INSTRUCTIONS
+  m_EditorClassIdentifier: Assembly-CSharp::LocalizedStringSO
+  en: "Now I\u2019m going to mark your goals with floating, transparent coffee cups.
+    Just follow the cups whenever you need help. </color><color=#FF9E3A> Look for
+    Floating Cup Markers. </color>"
+  es: 
+  ca: 

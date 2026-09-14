@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b3b4a44fe557d742b79432cebc7c078, type: 3}
+  m_Name: NL_010_GO_ESPRESSO
+  m_EditorClassIdentifier: Assembly-CSharp::NarratorLineSO
+  id: NL:010_GO_ESPRESSO
+  text: {fileID: 11400000, guid: 19bf4e78d3e28d24ca088b93ec254783, type: 2}
+  kind: 0
+  priority: 10
+  canInterrupt: 0
+  oneShot: 1
+  minShowSeconds: 2.5
+  cooldownSeconds: 6
+  voiceClip: {fileID: 8300000, guid: 5176f8b96506a9248b1bb19f2dfd3a5d, type: 3}

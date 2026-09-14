@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc19cfe60e37e3479241a8749c54637, type: 3}
+  m_Name: LS_005_PICK_DROP
+  m_EditorClassIdentifier: Assembly-CSharp::LocalizedStringSO
+  en: "See something you like? Tap [E] to grab it. Simple enough, even for a human.
+    Your tray equips itself as soon as you\u2019re holding something\u2014no paperwork,
+    no questions. And if you need to let it go, press [Q] to drop. </color><color=#FF9E3A>
+    Press E to Grab | Q to Drop </color> "
+  es: 
+  ca: 

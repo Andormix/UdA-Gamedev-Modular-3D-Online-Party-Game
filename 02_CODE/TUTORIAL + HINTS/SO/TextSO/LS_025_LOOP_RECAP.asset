@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc19cfe60e37e3479241a8749c54637, type: 3}
+  m_Name: LS_025_LOOP_RECAP
+  m_EditorClassIdentifier: Assembly-CSharp::LocalizedStringSO
+  en: "You get the loop now: spawn-items, brew-coffee, deliver-on-time, and clean-up!
+    All with just three items at a time. It\u2019s a real-shame you humans didn't
+    evolve-more-hands\u2014isn't it? [amused] I\u2019d help, but... you know... paws.
+    No thumbs. Very tragic."
+  es: 
+  ca: 

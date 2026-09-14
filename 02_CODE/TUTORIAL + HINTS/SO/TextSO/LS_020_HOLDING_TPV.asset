@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc19cfe60e37e3479241a8749c54637, type: 3}
+  m_Name: LS_020_HOLDING_TPV
+  m_EditorClassIdentifier: Assembly-CSharp::LocalizedStringSO
+  en: "Good. Hold it tight. It\u2019s not just a machine\u2014it\u2019s a tiny judge.
+    Now go to the table, interact with it and enter the total. </color><color=#FF9E3A>
+    Tip: You can click with the mouse the TPV screen that will popup when you are
+    close to a table that wants to pay its receipt. </color>"
+  es: 
+  ca: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc19cfe60e37e3479241a8749c54637, type: 3}
+  m_Name: LS_023_PH_CLEAN_ITEMS
+  m_EditorClassIdentifier: Assembly-CSharp::LocalizedStringSO
+  en: 'Press and hold ''E'' at the Sink to clean those items. </color><color=#FF9E3A>
+    Tip: you can press and hold [E] near a sink station to clean the items you have
+    handled, they will respawn at their respective locations. </color>'
+  es: 
+  ca: 

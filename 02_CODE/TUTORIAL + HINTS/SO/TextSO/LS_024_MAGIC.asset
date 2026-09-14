@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc19cfe60e37e3479241a8749c54637, type: 3}
+  m_Name: LS_024_MAGIC
+  m_EditorClassIdentifier: Assembly-CSharp::LocalizedStringSO
+  en: "Presto! Did you see that? The items are back in their stations, sparkling
+    like they were touched by a celestial paw! It\u2019s a ancient spell called \u2018Hygiene-icus-Totalus,\u2019
+    and it's the only real magic allowed in this establishment besides a perfect
+    espresso! Now, if only I could find a charm to make you work faster, Can-Opener.
+    Avada-Barista perhaps? hehe"
+  es: 
+  ca: 

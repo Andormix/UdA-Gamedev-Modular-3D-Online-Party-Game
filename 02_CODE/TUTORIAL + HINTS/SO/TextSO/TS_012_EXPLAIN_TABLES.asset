@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66e1c8a8cac977f4385616da74236e6e, type: 3}
+  m_Name: TS_012_EXPLAIN_TABLES
+  m_EditorClassIdentifier: Assembly-CSharp::TutorialStepSO
+  stepId: TS_012_EXPLAIN_TABLES
+  requiredPayloadId: 
+  prerequisites: []
+  startLines:
+  - {fileID: 11400000, guid: 84b9be92ea4002d438995fd5fb197d34, type: 2}
+  hintLines: []
+  completesOn: 1
+  secondsBeforeHint: 8
+  requireMovement: 0
+  requireNarrationFinishedForThisStep: 0
+  requirePickup: 0
+  requireLookAtInteractable: 0
+  requirePaymentPhase: 0
+  pointerTargetId: 
+  reminderLoopLines: []
+  reminderIntervalSeconds: 10
+  triggerTableOrderOnActivate: 0
+  targetTableDisplayName: 
+  onStepCompletedAction: 0
+  actionDelaySeconds: 0

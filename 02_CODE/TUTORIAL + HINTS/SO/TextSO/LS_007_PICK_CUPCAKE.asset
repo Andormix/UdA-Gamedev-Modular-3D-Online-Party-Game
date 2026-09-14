@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc19cfe60e37e3479241a8749c54637, type: 3}
+  m_Name: LS_007_PICK_CUPCAKE
+  m_EditorClassIdentifier: Assembly-CSharp::LocalizedStringSO
+  en: "Let\u2019s go, Can-Opener! Pick one cupcake! </color><color=#FF9E3A> You're
+    in range! - Use [E] to pick up a cupcake. </color> "
+  es: 
+  ca: 

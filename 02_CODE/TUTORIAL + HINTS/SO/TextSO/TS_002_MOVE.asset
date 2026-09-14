@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66e1c8a8cac977f4385616da74236e6e, type: 3}
+  m_Name: TS_002_MOVE
+  m_EditorClassIdentifier: Assembly-CSharp::TutorialStepSO
+  stepId: TUT_002_MOVE
+  requiredPayloadId: 
+  prerequisites: []
+  startLines:
+  - {fileID: 11400000, guid: 964d5f4e3db903a40bfb69312a20eb66, type: 2}
+  hintLines: []
+  completesOn: 2
+  secondsBeforeHint: 8
+  requireMovement: 1
+  requireNarrationFinishedForThisStep: 1
+  requirePickup: 0
+  requireLookAtInteractable: 0
+  requirePaymentPhase: 0
+  pointerTargetId: Movement
+  reminderLoopLines:
+  - {fileID: 11400000, guid: 4b2dfb7f20302934d9f42f410bdd0d1a, type: 2}
+  - {fileID: 11400000, guid: 3d6219e82276e5846847d2a4da29586c, type: 2}
+  - {fileID: 11400000, guid: d3ff7ed4633b4684db9d7d5b1f2a1153, type: 2}
+  reminderIntervalSeconds: 20
+  triggerTableOrderOnActivate: 0
+  targetTableDisplayName: 
+  onStepCompletedAction: 0
+  actionDelaySeconds: 0
+  allowPersistentMemoryForMainTrigger: 0
+  allowPersistentMemoryForExtraConditions: 1
+  allowCurrentStateForPickup: 1
+  nextLinks: []
+  executeNpcActionOnActivate: 1
+  npcAction:
+    actionType: 3
+    targetTransform: {fileID: 0}
+    targetId: 
+    worldPoint: {x: 0, y: 0, z: 0}
+    moveStoppingDistance: 0.25
+    moveTimeoutSeconds: 10
+    snapYToNpc: 1
+    followStopDistance: 1.5
+    followMaxDuration: 10
+    turnSpeedDegPerSec: 540
+    animatorParamName: 
+    animatorBoolValue: 1
+    moveStyle: 0
+    walkSpeed: 1.6
+    jogSpeed: 2.6
+    runSpeed: 3.8
+    acceleration: 12
+    angularSpeed: 720
+    followContinuously: 1
+    sitWhenNearPlayer: 1
+    standUpDistance: 2.2
+    followRepathInterval: 0.15
