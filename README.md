@@ -102,3 +102,6 @@ El projecte s'ha concebut amb una **arquitectura híbrida i modular** (*Coop-Fir
     </td>
   </tr>
 </table>
+
+<img width="1243" height="699" alt="image" src="https://github.com/user-attachments/assets/9a99f773-5e49-4746-9903-f590a9bac691" />
+
