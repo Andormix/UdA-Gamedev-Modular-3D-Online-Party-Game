@@ -9,11 +9,13 @@
 [![Academic](https://img.shields.io/badge/Academic-Universitat%20d'Andorra-003366?style=for-the-badge)](#)
 
 <p align="center">
-  <img
-    width="100%"
-    alt="Rush Hour gameplay"
-    src="https://github.com/user-attachments/assets/3c0cada2-b745-4d69-a217-31f70ee62acc"
-  />
+  <a href="https://drive.google.com/file/d/1iE0Ge40X2oEtWlI6x-TtFlCsE7gm76Ua/view?usp=sharing" target="_blank">
+    <img
+      width="100%"
+      alt="Rush Hour gameplay"
+      src="https://github.com/user-attachments/assets/3c0cada2-b745-4d69-a217-31f70ee62acc"
+    />
+  </a>
 </p>
 
 > **Final Degree Project in Computer Engineering**  
